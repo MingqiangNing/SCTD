@@ -5,7 +5,7 @@ Format: Pascal VOC with xml annotations. (voc2coco.py is also available)
 
 Authors: [Dr. Peng Zhang](https://github.com/automlresearch/), [Dr. Mingqiang Ning](https://github.com/freepoet), Zhisheng Zhang, Han Li, Yan Zhou, Prof. Yue Fan, Prof. Dandan Liu
 
-This project is currently part of work in a manusript submitted to IEEE Geoscience and Remote Sensing. If you have any quenstion during utilization, please contact us.
+This project is currently part of work in a manusript submitted to IEEE Transactions Geoscience and Remote Sensing. If you have any quenstion during utilization, please contact us.
 
 The baseline code and weight has been submitted to [Dr Peng Zhang's repository](https://github.com/automlresearch/autodetector)
 
