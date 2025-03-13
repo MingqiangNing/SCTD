@@ -11,16 +11,27 @@ The baseline code and weight has been submitted to [Dr Peng Zhang's repository](
 
 ## Citation
 
-If you use the SCTD dataset, please cite our paper,
+If you find this dataset helpful, please kindly cite:
 
-```
-@article{AutoDL detector,
-  title   = {Self-trained Target Detection of Radar and Sonar Images using Automatic Deep Learning},
-  author  = {Peng Zhang, Jinsong Tang, Heping Zhong, Mingqiang Ning, Dandan Liu and Ke Wu},
-  journal= {IEEE Transactions on Geoscience and Remote Sensing},
-  year={2021}
-}
-```
+* P. Zhang, J. Tang, H. Zhong, M. Ning, D. Liu and K. Wu, "Self-Trained Target Detection of Radar and Sonar Images Using Automatic Deep Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 4701914, doi: 10.1109/TGRS.2021.3096011.  
+  ```
+  @article{AutoDL detector,
+    title   = {Self-trained Target Detection of Radar and Sonar Images using Automatic Deep Learning},
+    author  = {Peng Zhang, Jinsong Tang, Heping Zhong, Mingqiang Ning, Dandan Liu and Ke Wu},
+    journal= {IEEE Transactions on Geoscience and Remote Sensing},
+    year={2021}
+  }
+  ```
+* M. Ning, J. Tang, H. Wu, H. Zhong and M. Ma, "An Efficient Subswath-Subband Chirp Z-Transform Algorithm for Multiple-Receiver SAS Considering the Differential Range Curvature," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2025.3550427.
+  ```
+  @ARTICLE{10922190,
+    title={An Efficient Subswath-Subband Chirp Z-Transform Algorithm for Multiple-Receiver SAS Considering the Differential Range Curvature}, 
+    author={Ning, Mingqiang and Tang, Jinsong and Wu, Haoran and Zhong, Heping and Ma, Mengbo},
+    journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+    year={2025},
+    doi={10.1109/TGRS.2025.3550427}
+  }
+  ```
 
 # Acknowledgement
 Our financial support is from Prof. Jinsong Tang, Prof. Heping Zhong, Zhejiang Yusheng Ocean Technology Co., Ltd
